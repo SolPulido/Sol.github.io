@@ -66,5 +66,14 @@ lab 1 intro to HTML
 lab 2 Images 
 lab 3 hyperlinks 
 lab 4 table and colors 
-lab 5 
+lab 5 listd isnide tables 
+lab 6 favicon and styling your page 
+lab 7 lab homepage 
+learners : bronze-debug 
+learners : make a recipe 
+learners:make  a halloween card 
+learners:tell a story 
+learners:poster 
+learners make a robot 
+
 
